@@ -1,0 +1,27 @@
+{
+  "name": "font-mfizz",
+  "description": "Vector Icons for Technology and Software Geeks",
+  "version": "1.2.0",
+  "keywords": ["font", "mfizz", "icon", "font"],
+  "homepage": "http://mfizz.com/oss/font-mfizz",
+  "bugs": {
+    "url" : "https://github.com/fizzed/font-mfizz/issues"
+  },
+  "author": {
+    "name": "Fizzed Inc",
+    "email": "ping@mfizz.com",
+    "web": "http://mfizz.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fizzed/font-mfizz.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/mit-license.html"
+    }
+  ],
+  "dependencies": {
+  }
+}
